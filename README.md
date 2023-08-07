@@ -1,1 +1,1 @@
-# goit-markup-hw-01 Home work number one "WebStudio"
+# goit-markup-hw-02 Home work number two "WebStudio"
