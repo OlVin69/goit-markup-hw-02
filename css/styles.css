@@ -15,6 +15,7 @@ ul {
 .logo {
   font-family: Raleway, sans-serif;
   font-size: 18px;
+  font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
@@ -36,6 +37,10 @@ ul {
 .nav-link:hover,
 .nav-link:focus {
   color: #404bbf;
+}
+
+.address-style {
+  font-style: normal;
 }
 
 .address-list {
@@ -70,10 +75,11 @@ ul {
   letter-spacing: 0.64px;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 .button:hover,
-.button:hover {
+.button:focus {
   background-color: #404bbf;
 }
 
@@ -138,7 +144,7 @@ ul {
   letter-spacing: 0.32px;
 }
 
-footer {
+.footer-background {
   background-color: #2e2f42;
 }
 
